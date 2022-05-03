@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
+    START_TXT = """<b>myr {},
 
 Iᴀᴍ A Sɪᴍᴘʟᴇ Aᴜᴛᴏ Fɪʟᴛᴇʀ + Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀ + Exᴛʀᴀ Fᴇᴀᴛᴜʀᴇs Bᴏᴛ. I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs Iɴ Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘs.I Cᴀɴ Aʟsᴏ Aᴅᴅ Fɪʟᴛᴇʀs Iɴ Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘs.  Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ</b>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
