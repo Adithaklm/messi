@@ -102,6 +102,11 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
+    IDM_TEXT = """<b>🎪 Tɪᴛʟᴇ : {}</b>
+┏ <b>🤴 ᴀsᴋᴇᴅ ʙʏ : {}</b>
+┣ ⚡<b> ᴘᴏᴡᴇʀᴇᴅ ʙʏ : {}</b>
+┗ 🍁<b> ᴄʜᴀɴɴᴇʟ : @film_housc</b>
+<b><i>ᴛʜɪs ᴍᴀssᴀɢᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇ ᴀғᴛᴇʀ 𝟸𝟶 ᴍɪɴᴜᴛᴇs ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏ ʀɪɢʜᴛ ɪssᴜᴇ</i></b>"""
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
