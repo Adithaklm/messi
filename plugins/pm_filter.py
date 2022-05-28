@@ -706,7 +706,7 @@ async def auto_filter(client, msg, spoll=False):
     if imdb:
         cap = TEMPLATE.format(
             query=search,
-            message.from_user.mention=message.from_user.mention, 
+            message.from_user.mention=mention, 
             title=imdb['title'],
             votes=imdb['votes'],
             aka=imdb["aka"],
