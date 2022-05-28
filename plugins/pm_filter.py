@@ -736,6 +736,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
+        tic = f"https://telegra.ph/file/cd60770fbe1b21d8739fa.jpg"
         cap = f"Here is what i found for your query {search}"
     if imdb and imdb.get('poster'):
         try:
@@ -749,7 +750,7 @@ async def auto_filter(client, msg, spoll=False):
             logger.exception(e)
             await message.reply_text(cap, reply_markup=InlineKeyboardMarkup(btn))
     else:
-        await message.reply_text(cap, reply_markup=InlineKeyboardMarkup(btn))
+        await message.reply_text(tic, cap, reply_markup=InlineKeyboardMarkup(btn))
     if spoll:
         await msg.message.delete()
 
